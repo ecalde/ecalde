@@ -1,5 +1,9 @@
 ![Software Engineer & Cyber Security CS Student](https://raw.githubusercontent.com/ecalde/ecalde/main/Github%20Banner.png)
 
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
+
 Senior Computer Science student with a concentration on Software Engineering and Cyber Security at the University of Texas at San Antonio. I'm an ambitious individual who is always looking to learn new languages and frameworks! Developing software and web applications are my hobbies as well as creating art and animations. Applying my artistic creativity through UI, UX and design has become a new recent endeavor of mine! My goal in life is to never stop learning. 
 
 Skills: C, Java, Python, Bash, HTML, CSS, Bootstrap, Adobe Software
