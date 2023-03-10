@@ -1,7 +1,7 @@
 ![Software Engineer & Cyber Security CS Student](https://github.com/ecalde/ecalde/blob/main/Github%20Banner%20Dawn.png?raw=true)
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C79F7&lines=System.out.print(%22Hello+World!%22);console.log(%22I'm+Edwin+J.+Calderon%22);printf(%22Welcome+to+my+GitHub!%22);print(%224%2B+years+of+programming+exp%22);%3Cp%3EAlways+Learning!%3C%2Fp%3E;echo+%22Software+Developer+enthusiast%22;std%3A%3Acout+%3C%3C+%22Graphic+Artist%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C79F7&width=435&lines=System.out.print(%22Hello+World!%22);console.log(%22I'm+Edwin+J.+Calderon%22);printf(%22Welcome+to+my+Github!%22);print(%224%2B+years+of+programming+exp%22);%3Cp%3EAlways+Learning!%3C%2Fp%3E;echo+%22Software+Developer+enthusiast%22;std%3A%3Acout+%3C%3C+%22Graphic+Artist!%22)](https://git.io/typing-svg)
 
 
 Senior Computer Science student with a concentration on Software Engineering and Cyber Security at the University of Texas at San Antonio. I'm an ambitious individual who is always looking to learn new languages and frameworks! Developing software and web applications are my hobbies as well as creating art and animations. Applying my artistic creativity through UI, UX and design has become a new recent endeavor of mine! My goal in life is to never stop learning. 
