@@ -27,6 +27,12 @@ Skills: C, Java, Python, Bash, HTML, CSS, Bootstrap, Adobe Software
 - 📫 How to reach me: calderonedwin3@gmail.com 
 - 😄 Pronouns: he/him/his 
 
+<!--   GitHub stats graph -->
+
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![Edwin Calderon GitHub stats](https://github-readme-stats.vercel.app/api?username=ecalde&show_icons=true&theme=radical&include_all_commits=true) | ![Edwin Calderon GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ecalde&theme=radical&layout=compact) |
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ecalde)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/edwin-calderon-6a0231135//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/edwinspirar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/edwinspira//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://www.facebook.com/edwinspirar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCuSD3JQ1uH31S9R-Tlqh-Zw?view_as=subscriber)  
 
