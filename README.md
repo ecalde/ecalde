@@ -1,4 +1,4 @@
-![Software Engineer & Cyber Security CS Student](https://raw.githubusercontent.com/ecalde/ecalde/main/Github%20Banner.png)
+![Software Engineer & Cyber Security CS Student](https://github.com/ecalde/ecalde/blob/main/Github%20Banner%20Dawn.png?raw=true)
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A3F7&background=FFFFFF00&center=true&vCenter=true&width=600&lines=System.out.print(%22Hello+World!%22);console.log(%22I'm+Edwin+J.+Calderon%22);printf(%22Welcome+to+my+GitHub!%22);print(%224%2B+years+of+programming+exp%22);%3Cp%3EAlways+Learning!%3C%2Fp%3E;echo+%22Software+Developer+enthusiast%22;std%3A%3Acout+%3C%3C+%22Graphic+Artist%22)](https://git.io/typing-svg)
