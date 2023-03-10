@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C79F7&width=435&lines=System.out.print(%22Hello+World!%22);console.log(%22I'm+Edwin+J.+Calderon%22);printf(%22Welcome+to+my+Github!%22);print(%224%2B+years+of+programming+exp%22);%3Cp%3EAlways+Learning!%3C%2Fp%3E;echo+%22Software+Developer+enthusiast%22;std%3A%3Acout+%3C%3C+%22Graphic+Artist!%22)](https://git.io/typing-svg)
 
 <!--   my-skils -->
-<div align="center">
 | Property                                        | Data|
 |-|-|
 | **Computer Languages**                              |<img src="https://github.com/ecalde/ecalde/blob/main/icons/1.png?raw=true" alt="c" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/2.png?raw=true" alt="java" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/3.png?raw=true" alt="python" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/4.png?raw=true" alt="bash" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/5.png?raw=true" alt="mips" width="40" height="40"/>|                                                                                                                                                          
@@ -18,7 +17,6 @@
 | **Domain Knowledge** | <img src="https://github.com/ecalde/ecalde/blob/main/icons/37.png?raw=true" alt="software engineer" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/38.png?raw=true" alt="cyber security" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/39.png?raw=true" alt="web development" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/40.png?raw=true" alt="cloud hosting" width="40" height="40"/>|                                                                                                                                                                                                                        
 | **Spoken Languagess** | <img src="https://github.com/ecalde/ecalde/blob/main/icons/41.png?raw=true" alt="English" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/42.png?raw=true" alt="Spanish" width="40" height="40"/>|                                                                                                                                                                                                                        
 
-</div>
 Senior Computer Science student with a concentration on Software Engineering and Cyber Security at the University of Texas at San Antonio. I'm an ambitious individual who is always looking to learn new languages and frameworks! Developing software and web applications are my hobbies as well as creating art and animations. Applying my artistic creativity through UI, UX and design has become a new recent endeavor of mine! My goal in life is to never stop learning. 
 
 Skills: C, Java, Python, Bash, HTML, CSS, Bootstrap, Adobe Software
