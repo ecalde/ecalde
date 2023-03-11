@@ -22,9 +22,10 @@
 First-Generation Computer Science Graduate from the University of Texas at San Antonio Fall 2022. Concentrations on Software Engineering and Cyber Security. My name is Edwin Javier Calderon and I'm a proud hispanic. As well as an ambitious individual who is always looking to learn new things! Developing software and web applications are my hobbies as well as creating art through digital illustrations, painting and animations.
 
 <h3 align="center">Contact Info</h3>
-Email: calderonedwin3@gmail.com 
-Github: linkedin.com/in/edwin-j-calderon/
-
+<div>
+  <p>Email: <a href="calderonedwin3@gmail.com">calderonedwin3@gmail.com</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/edwin-j-calderon/">edwin-j-calderon</a></p>
+</div>
 
 <!--   GitHub stats graph -->
 
