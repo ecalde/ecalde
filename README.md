@@ -17,19 +17,17 @@
 | **Domain Knowledge** | <img src="https://github.com/ecalde/ecalde/blob/main/icons/37.png?raw=true" alt="software engineer" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/38.png?raw=true" alt="cyber security" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/39.png?raw=true" alt="web development" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/40.png?raw=true" alt="cloud hosting" width="40" height="40"/>|                                                                                                                                                                                                                        
 | **Spoken Languagess** | <img src="https://github.com/ecalde/ecalde/blob/main/icons/41.png?raw=true" alt="English" width="40" height="40"/><img src="https://github.com/ecalde/ecalde/blob/main/icons/42.png?raw=true" alt="Spanish" width="40" height="40"/>|                                                                                                                                                                                                                        
 
-Computer Science graduate with a concentration on Software Engineering and Cyber Security at the University of Texas at San Antonio. I'm an ambitious individual who is always looking to learn new languages and frameworks! Developing software and web applications are my hobbies as well as creating art and animations. Applying my artistic creativity through UI, UX and design has become a new recent endeavor of mine! My goal in life is to never stop learning. 
 
-Skills: C, Java, Python, Bash, HTML, CSS, Bootstrap, Adobe Software
+<h3 align="center">About Me</h3>
+First-Generation Computer Science Graduate from the University of Texas at San Antonio Fall 2022. Concentrations on Software Engineering and Cyber Security. My name is Edwin Javier Calderon and I'm a proud hispanic. As well as an ambitious individual who is always looking to learn new things! Developing software and web applications are my hobbies as well as creating art through digital illustrations, painting and animations.
 
-- 🔭 I’m currently working on Agile, AWS Web Development 
-- 🌱 I’m currently learning Web Technologies with JavaScript, CSS and HTML 
-- 👯 I’m looking to collaborate on software and web development 
-- 📫 How to reach me: calderonedwin3@gmail.com 
-- 😄 Pronouns: he/him/his 
+<h3 align="center">Contact Info</h3>
+Email: calderonedwin3@gmail.com 
+Github: linkedin.com/in/edwin-j-calderon/
+
 
 <!--   GitHub stats graph -->
 
 ![Edwin Calderon GitHub stats](https://github-readme-stats.vercel.app/api?username=ecalde&show_icons=true&theme=radical&include_all_commits=true) ![Edwin Calderon GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ecalde&theme=radical&layout=compact)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ecalde"></img>
 
-[![Edwin Calderon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecalde)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ecalde"></img>
