@@ -28,7 +28,7 @@ First-Generation Computer Science Graduate from the University of Texas at San A
 </div>
 
 <!--   GitHub stats graph -->
-![Edwin GitHub stats](https://github-readme-stats.vercel.app/api?username=ecalde&show_icons=true&theme=radical) ![Edwin Calderon GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ecalde&theme=radical)
+![Edwin GitHub stats](https://github-readme-stats.vercel.app/api?username=ecalde&show_icons=true&theme=radical) ![Edwin Calderon GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ecalde&theme=radical&laout=compact) <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecalde"></img>
 <!--
 ![Edwin Calderon GitHub stats](https://github-readme-stats.vercel.app/api?username=ecalde&show_icons=true&theme=radical&include_all_commits=true) ![Edwin Calderon GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ecalde&theme=radical&layout=compact)
 
