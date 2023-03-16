@@ -32,5 +32,3 @@ First-Generation Computer Science Graduate from the University of Texas at San A
 
 
 [![Edwin Calderon Streak](https://streak-stats.demolab.com?user=ecalde&theme=radical&border_radius=9)](https://git.io/streak-stats)
-
-
