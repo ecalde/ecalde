@@ -19,8 +19,7 @@
 
 
 <h3 align="center">About Me</h3>
-First-Generation Computer Science Graduate from the University of Texas at San Antonio Fall 2022, with concentrations on Software Engineering and Cyber Security. Currently pursuing a Master of Science in Computer Science with a specialization in Machine Learning at Georgia Tech.
-My name is Edwin Javier Calderon and I'm a proud hispanic technologist with a strong ambition to keep learning and growing. I love building software and web applications. Outside of coding, I express creativity through digital illustration, painting, and animation. Blending technical thinking with artistic design. I'm always curious, always experimenting, and always pushing myself to be innovative.
+First-Generation Computer Science Graduate from the University of Texas at San Antonio Fall 2022, with concentrations on Software Engineering and Cyber Security. Currently pursuing a Master of Science in Computer Science with a specialization in Machine Learning at Georgia Tech. My name is Edwin Javier Calderon and I'm a proud hispanic technologist with a strong ambition to keep learning and growing. I love building software and web applications. Outside of coding, I express creativity through digital illustration, painting, and animation. Blending technical thinking with artistic design. I'm always curious, always experimenting, and always pushing myself to be innovative.
 
 <h3 align="center">Contact Info</h3>
 <div>
